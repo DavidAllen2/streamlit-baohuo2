@@ -59,7 +59,7 @@ try:
     wait = WebDriverWait(driver, 50)  # 最多等50秒
     try:
         button = wait.until(
-            EC.element_to_be_clickable((By.XPATH, "//button[contains(., '启动部署')]"))
+            EC.element_to_be_clickable((By.XPATH, "//button[contains(., 'get this app back up')]"))
         )
         button.click()
         log("按钮已点击")
