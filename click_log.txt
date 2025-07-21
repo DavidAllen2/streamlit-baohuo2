@@ -1,1 +1,24 @@
 
+[2025-07-21 12:45:07] 未发现按钮或点击失败: Message: 
+Stacktrace:
+#0 0x56425af7e7da <unknown>
+#1 0x56425aa232e0 <unknown>
+#2 0x56425aa74e00 <unknown>
+#3 0x56425aa74ff1 <unknown>
+#4 0x56425aac3324 <unknown>
+#5 0x56425aa9a8dd <unknown>
+#6 0x56425aac071c <unknown>
+#7 0x56425aa9a683 <unknown>
+#8 0x56425aa66b5b <unknown>
+#9 0x56425aa67f31 <unknown>
+#10 0x56425af4372b <unknown>
+#11 0x56425af47534 <unknown>
+#12 0x56425af2a229 <unknown>
+#13 0x56425af480d8 <unknown>
+#14 0x56425af0e61f <unknown>
+#15 0x56425af6bdd8 <unknown>
+#16 0x56425af6bfb6 <unknown>
+#17 0x56425af7daf6 <unknown>
+#18 0x7f7f4cc9caa4 <unknown>
+#19 0x7f7f4cd29c3c <unknown>
+
