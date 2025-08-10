@@ -817,3 +817,26 @@ Stacktrace:
 #19 0x7f4cf6d29c3c <unknown>
 
 [2025-08-10 01:57:12] 脚本异常出错: HTTPConnectionPool(host='localhost', port=58205): Read timed out. (read timeout=120)
+[2025-08-10 12:40:33] 未发现按钮或点击失败: Message: 
+Stacktrace:
+#0 0x557907dcd2ca <unknown>
+#1 0x557907874550 <unknown>
+#2 0x5579078c60f0 <unknown>
+#3 0x5579078c62e1 <unknown>
+#4 0x5579079145e4 <unknown>
+#5 0x5579078ebbed <unknown>
+#6 0x5579079119e6 <unknown>
+#7 0x5579078eb993 <unknown>
+#8 0x5579078b7d6b <unknown>
+#9 0x5579078b9141 <unknown>
+#10 0x557907d922ab <unknown>
+#11 0x557907d960b9 <unknown>
+#12 0x557907d79139 <unknown>
+#13 0x557907d96c68 <unknown>
+#14 0x557907d5d60f <unknown>
+#15 0x557907dbb1f8 <unknown>
+#16 0x557907dbb3d6 <unknown>
+#17 0x557907dcc5e6 <unknown>
+#18 0x7fc35f69caa4 <unknown>
+#19 0x7fc35f729c3c <unknown>
+
