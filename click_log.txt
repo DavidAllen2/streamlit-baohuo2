@@ -16837,7 +16837,6 @@ Stacktrace:
 #16 0x7f44a789cb84 <unknown>
 #17 0x7f44a7929d6c <unknown>
 
-[2026-09-21 03:38:58] 未发现按钮或点击失败: Message: 
 Stacktrace:
 #0 0x55e6785f303a <unknown>
 #1 0x55e677f5b4c9 <unknown>
@@ -16941,4 +16940,25 @@ Stacktrace:
 #15 0x5558903d3bc3 <unknown>
 #16 0x7f26cd89cb84 <unknown>
 #17 0x7f26cd929d6c <unknown>
+
+[2026-09-23 16:14:30] 未发现按钮或点击失败: Message: 
+Stacktrace:
+#0 0x559fe69ea9fa <unknown>
+#1 0x559fe63205b9 <unknown>
+#2 0x559fe6376dfc <unknown>
+#3 0x559fe6377071 <unknown>
+#4 0x559fe63c3664 <unknown>
+#5 0x559fe63c08de <unknown>
+#6 0x559fe6369b8b <unknown>
+#7 0x559fe636a971 <unknown>
+#8 0x559fe69ad667 <unknown>
+#9 0x559fe69abe95 <unknown>
+#10 0x559fe6996f55 <unknown>
+#11 0x559fe69acaea <unknown>
+#12 0x559fe697f6c9 <unknown>
+#13 0x559fe69d49a8 <unknown>
+#14 0x559fe69d4b45 <unknown>
+#15 0x559fe69e9353 <unknown>
+#16 0x7fd9e4a9cb84 <unknown>
+#17 0x7fd9e4b29ecc <unknown>
 
